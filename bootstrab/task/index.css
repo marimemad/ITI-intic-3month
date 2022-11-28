@@ -1,0 +1,135 @@
+body {
+    margin: 0;
+    font-family: var(--bs-font-sans-serif);
+    font-size: 1.07rem;
+    font-weight: 500;
+    line-height: 1.7;
+    color: #575a7b;
+    background-color: #ffffff;
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+.extra{
+    border-color: rgb(255,123,0);
+    padding: .5rem 1.25rem;
+    border-radius: 0;
+}
+.icon{
+    font-size: 30px;
+    background-color: white;
+    color: black;
+    padding: 0px 10px;
+}
+.carousel-caption{
+    top: 1.25em;
+}
+
+.b{
+    padding: 0.65rem 1.25rem;
+    font-weight: 500;
+    font-size: 1rem;
+    line-height: 1.6;
+}
+.b-w{
+    background-color: white;
+    border-color: white;
+}
+h1{
+    font-size: 5rem;
+}
+.p{
+   color: rgb(255,123,0); 
+}
+.p-7{
+    padding-right:7rem;
+}
+.p-6-5{
+    padding:6.25rem 0rem; 
+}
+.mr-3{
+    margin-top: 4rem;
+}
+.bl{
+    color: black;
+}
+.wi{
+    color: white;
+}
+.bg-clr{
+    background-color: rgb(242,243,250);
+}
+.pl-7{
+    padding-left: 3.5rem;
+}
+.pr{
+    position: relative;
+}
+.pos{
+    bottom: 15px;
+    left: 25px;
+}
+.pabs{
+    position: absolute;
+}
+.pstyle{
+    width: 17.5rem;
+    font-size: x-large;
+    line-height: 1.2;
+    color: black;
+    font-weight: 650;
+}
+.circle{
+    width: 5rem;
+    height: 5rem;
+    border-radius: 50%;
+    text-align: center;
+}
+.bg-c-orng{
+    background-color: rgb(255,123,0);
+}
+.p-tb-3{
+    padding:3.5rem 1.75rem;
+}
+.c-light{
+    color: #575a7b;
+}
+
+.bg-img{
+    height: 65vh;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.url1{
+    background-image: url(https://www.pxdraft.com/wrap/dome/static/img/bg-1.jpg);
+}
+.icon-style{
+    font-size: 4rem;
+    position: absolute;
+    top: -15px;
+    left: 12px;
+}
+.set-center{
+    top: 39%;
+    left: 41%;
+}
+.sm-circle{
+    width: 4rem;
+    height: 4rem;
+    border-radius: 50%;
+    text-align: center;
+}
+
+.b-wi{
+    border-color: white;
+}
+.bord-non{
+    border: none;
+}
+.url2{
+    background-image: url(https://www.pxdraft.com/wrap/dome/static/img/bg-3.jpg);
+}
+
+.icon-size{
+    font-size: 3rem;
+}
