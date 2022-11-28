@@ -1,0 +1,246 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Mulish', sans-serif;
+}
+.body{
+  width: 85%;
+  margin: auto;
+}
+
+nav{
+  display: flex;
+  justify-content: space-between;
+  margin: 20px;
+
+}
+ul{
+  list-style: none;
+  display: flex;
+}
+ul li{
+  margin:5px;
+  padding: 5px;
+  color: gray;
+}
+nav div p{
+  margin: 5px;
+  padding: 5px;
+}
+nav div span{
+  padding: 10px 13px;
+  margin-right: 5px;
+  border-radius: 40px;
+  color: white;
+  background-color: #458FF6
+}
+/* ______________header________________ */
+.prgraph{
+  display: flex;
+  justify-content: space-between;
+  margin: 40px 0px;
+}
+.prg{
+  margin: 80px 80px 80px 0px;
+  padding: 20px;
+}
+.prgraph div h1{
+  padding-bottom: 20px;
+  font-size: 50px;
+  padding-bottom: 15px;
+  font-weight: 700;
+}
+.prgraph div p{
+  font-weight: 300;
+  font-size: 21px;
+  line-height: 32px;
+  padding-bottom: 30px;
+  color: gray;
+}
+.prgraph img{
+  width: 50%;
+  height: 50%;
+}
+.btn1{
+  padding : 10px 25px ;
+  font-size: 17px;
+  border-radius: 55px;
+  background-color: #458FF6;
+  color: white;
+  border: none;
+}
+.h2{
+  width: 250px;
+  margin: auto;
+  font-size: 40px;
+  padding-bottom: 15px;
+  font-weight: 600;
+}
+
+/* _________________section1_____________ */
+.section1 .h2::after{
+  position: absolute;
+  left: 605px;
+  top: 695px;
+  content: " ";
+  width: 40px;
+  height:2px;
+  background-color: gray;
+  margin: 5px;
+  border-radius: 20px;
+}
+.section1 p{
+  padding: 25px;
+  width: 800px;
+  margin: auto;
+  color: gray;
+  line-height: 30px;
+}
+/* _________________section2_____________ */
+.section2{
+  display: flex;
+  flex-wrap: wrap;
+  margin: 35px 80px;
+}
+
+.section2 .card{
+  margin: 30px 15px;
+  padding: 25px;
+  width: 245px;
+  height: 230px;
+  box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.6);
+  border-radius: 20px;
+}
+.section2 .card img{
+  padding: 10px 0px;
+  Width: 61px;
+  Height: 73px;
+}
+.section2 .card h3{
+  padding: 10px 0px;
+  line-height: 32px;
+}
+.section2 .card p{
+  padding: 10px 0px;
+  color: gray;
+  line-height: 28px;
+}
+.btn{
+  margin: auto;
+  margin-top: 40px;
+  padding : 10px 25px ;
+  font-size: 17px;
+  border-radius: 55px;
+  background-color: white;
+  color: #458FF6;
+  border-color: #458FF6;
+}
+/* _________________section3_____________ */
+.more{
+  margin: 100px 0px;
+}
+
+.prg1{
+  margin: 80px 0px 80px 80px;
+  padding: 20px;
+}
+.prgraph h2{
+  padding-bottom: 20px;
+  font-weight: 600;
+  width: 350px;
+  font-size: 30px;
+}
+
+/* _________________section4_____________ */
+.section4{
+  margin: 150px 100px;
+  background: linear-gradient(208.18deg, #67C3F3 9.05%, #5A98F2 76.74%);
+  border-radius: 24px;
+  color: white;
+}
+.section4 h2{
+  width: 400px;
+  margin: auto;
+  padding: 50px 0px;
+}
+.sec4{
+  display: flex;
+
+}
+.section4 .sec4 .container img{
+  border-radius: 50%;
+  border: solid white;
+  width: 140px;
+  height: 140px;
+}
+.container {
+  display: flex;
+  padding: 0px 50px 100px 90px;
+}
+.container div {
+  padding: 50px 0px 50px 30px;
+  width: 150px;
+}
+.sty{
+  padding: 20px 100px 50px 50px;
+  line-height: 30px;
+}
+/* _________________section5_____________ */
+.section5 .h2{
+  width: 500px;
+  padding-top: 0px;
+}
+.section5 .h2::after{
+  position: absolute;
+  left: 610px;
+  top: 3500px;;
+  content: " ";
+  width: 40px;
+  height:2px;
+  background-color: gray;
+  margin: 5px;
+  border-radius: 20px;
+}
+.section5 .card{
+  padding: 0px;
+  margin: 40px 10px;
+  width: 308px;
+  height: 500px;
+  border-radius: 30px;
+}
+.section5 .section2 .card img{
+  border-radius: 30px 30px 0px 0px;
+  padding: 0px;
+  width:308px;
+  height: 275px;
+}
+.section5 .section2 .card div{
+  padding: 10px 35px;
+}
+
+/* _________________footer_____________ */
+footer{
+  margin-top:200px;
+  padding: 100px 150px;
+  color:white;
+  display: flex;
+  justify-content: space-between;
+  background: linear-gradient(183.41deg, #67C3F3 -8.57%, #5A98F2 82.96%);
+}
+
+footer div{
+  line-height: 28px;
+}
+footer div p{
+  max-width: 350px
+}
+footer div h4{
+  padding-bottom: 10px;
+}
+footer div h4 span{
+  padding: 8px 13px;
+  margin-right: 5px;
+  border-radius: 50%;
+  color: #458FF6;
+  background-color: white;
+}
