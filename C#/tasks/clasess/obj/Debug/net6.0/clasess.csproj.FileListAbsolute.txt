@@ -1,0 +1,15 @@
+/home/marimemad/data/iti-dotnet/tasks/clasess/obj/Debug/net6.0/clasess.csproj.AssemblyReference.cache
+/home/marimemad/data/iti-dotnet/tasks/clasess/obj/Debug/net6.0/clasess.GeneratedMSBuildEditorConfig.editorconfig
+/home/marimemad/data/iti-dotnet/tasks/clasess/obj/Debug/net6.0/clasess.AssemblyInfoInputs.cache
+/home/marimemad/data/iti-dotnet/tasks/clasess/obj/Debug/net6.0/clasess.AssemblyInfo.cs
+/home/marimemad/data/iti-dotnet/tasks/clasess/obj/Debug/net6.0/clasess.csproj.CoreCompileInputs.cache
+/home/marimemad/data/iti-dotnet/tasks/clasess/bin/Debug/net6.0/clasess
+/home/marimemad/data/iti-dotnet/tasks/clasess/bin/Debug/net6.0/clasess.deps.json
+/home/marimemad/data/iti-dotnet/tasks/clasess/bin/Debug/net6.0/clasess.runtimeconfig.json
+/home/marimemad/data/iti-dotnet/tasks/clasess/bin/Debug/net6.0/clasess.dll
+/home/marimemad/data/iti-dotnet/tasks/clasess/bin/Debug/net6.0/clasess.pdb
+/home/marimemad/data/iti-dotnet/tasks/clasess/obj/Debug/net6.0/clasess.dll
+/home/marimemad/data/iti-dotnet/tasks/clasess/obj/Debug/net6.0/refint/clasess.dll
+/home/marimemad/data/iti-dotnet/tasks/clasess/obj/Debug/net6.0/clasess.pdb
+/home/marimemad/data/iti-dotnet/tasks/clasess/obj/Debug/net6.0/clasess.genruntimeconfig.cache
+/home/marimemad/data/iti-dotnet/tasks/clasess/obj/Debug/net6.0/ref/clasess.dll

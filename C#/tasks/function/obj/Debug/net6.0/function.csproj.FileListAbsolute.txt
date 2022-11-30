@@ -1,0 +1,15 @@
+/home/marimemad/data/iti-dotnet/tasks/function/obj/Debug/net6.0/function.csproj.AssemblyReference.cache
+/home/marimemad/data/iti-dotnet/tasks/function/obj/Debug/net6.0/function.GeneratedMSBuildEditorConfig.editorconfig
+/home/marimemad/data/iti-dotnet/tasks/function/obj/Debug/net6.0/function.AssemblyInfoInputs.cache
+/home/marimemad/data/iti-dotnet/tasks/function/obj/Debug/net6.0/function.AssemblyInfo.cs
+/home/marimemad/data/iti-dotnet/tasks/function/obj/Debug/net6.0/function.csproj.CoreCompileInputs.cache
+/home/marimemad/data/iti-dotnet/tasks/function/bin/Debug/net6.0/function
+/home/marimemad/data/iti-dotnet/tasks/function/bin/Debug/net6.0/function.deps.json
+/home/marimemad/data/iti-dotnet/tasks/function/bin/Debug/net6.0/function.runtimeconfig.json
+/home/marimemad/data/iti-dotnet/tasks/function/bin/Debug/net6.0/function.dll
+/home/marimemad/data/iti-dotnet/tasks/function/bin/Debug/net6.0/function.pdb
+/home/marimemad/data/iti-dotnet/tasks/function/obj/Debug/net6.0/function.dll
+/home/marimemad/data/iti-dotnet/tasks/function/obj/Debug/net6.0/refint/function.dll
+/home/marimemad/data/iti-dotnet/tasks/function/obj/Debug/net6.0/function.pdb
+/home/marimemad/data/iti-dotnet/tasks/function/obj/Debug/net6.0/function.genruntimeconfig.cache
+/home/marimemad/data/iti-dotnet/tasks/function/obj/Debug/net6.0/ref/function.dll

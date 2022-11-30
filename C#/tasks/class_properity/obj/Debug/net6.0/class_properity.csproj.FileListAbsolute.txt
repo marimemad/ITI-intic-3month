@@ -1,0 +1,15 @@
+/home/marimemad/data/iti-dotnet/tasks/class_properity/bin/Debug/net6.0/class_properity
+/home/marimemad/data/iti-dotnet/tasks/class_properity/bin/Debug/net6.0/class_properity.deps.json
+/home/marimemad/data/iti-dotnet/tasks/class_properity/bin/Debug/net6.0/class_properity.runtimeconfig.json
+/home/marimemad/data/iti-dotnet/tasks/class_properity/bin/Debug/net6.0/class_properity.dll
+/home/marimemad/data/iti-dotnet/tasks/class_properity/bin/Debug/net6.0/class_properity.pdb
+/home/marimemad/data/iti-dotnet/tasks/class_properity/obj/Debug/net6.0/class_properity.csproj.AssemblyReference.cache
+/home/marimemad/data/iti-dotnet/tasks/class_properity/obj/Debug/net6.0/class_properity.GeneratedMSBuildEditorConfig.editorconfig
+/home/marimemad/data/iti-dotnet/tasks/class_properity/obj/Debug/net6.0/class_properity.AssemblyInfoInputs.cache
+/home/marimemad/data/iti-dotnet/tasks/class_properity/obj/Debug/net6.0/class_properity.AssemblyInfo.cs
+/home/marimemad/data/iti-dotnet/tasks/class_properity/obj/Debug/net6.0/class_properity.csproj.CoreCompileInputs.cache
+/home/marimemad/data/iti-dotnet/tasks/class_properity/obj/Debug/net6.0/class_properity.dll
+/home/marimemad/data/iti-dotnet/tasks/class_properity/obj/Debug/net6.0/refint/class_properity.dll
+/home/marimemad/data/iti-dotnet/tasks/class_properity/obj/Debug/net6.0/class_properity.pdb
+/home/marimemad/data/iti-dotnet/tasks/class_properity/obj/Debug/net6.0/class_properity.genruntimeconfig.cache
+/home/marimemad/data/iti-dotnet/tasks/class_properity/obj/Debug/net6.0/ref/class_properity.dll

@@ -1,0 +1,15 @@
+/home/marimemad/data/iti-dotnet/tasks/matries/obj/Debug/net6.0/matries.csproj.AssemblyReference.cache
+/home/marimemad/data/iti-dotnet/tasks/matries/obj/Debug/net6.0/matries.GeneratedMSBuildEditorConfig.editorconfig
+/home/marimemad/data/iti-dotnet/tasks/matries/obj/Debug/net6.0/matries.AssemblyInfoInputs.cache
+/home/marimemad/data/iti-dotnet/tasks/matries/obj/Debug/net6.0/matries.AssemblyInfo.cs
+/home/marimemad/data/iti-dotnet/tasks/matries/obj/Debug/net6.0/matries.csproj.CoreCompileInputs.cache
+/home/marimemad/data/iti-dotnet/tasks/matries/bin/Debug/net6.0/matries
+/home/marimemad/data/iti-dotnet/tasks/matries/bin/Debug/net6.0/matries.deps.json
+/home/marimemad/data/iti-dotnet/tasks/matries/bin/Debug/net6.0/matries.runtimeconfig.json
+/home/marimemad/data/iti-dotnet/tasks/matries/bin/Debug/net6.0/matries.dll
+/home/marimemad/data/iti-dotnet/tasks/matries/bin/Debug/net6.0/matries.pdb
+/home/marimemad/data/iti-dotnet/tasks/matries/obj/Debug/net6.0/matries.dll
+/home/marimemad/data/iti-dotnet/tasks/matries/obj/Debug/net6.0/refint/matries.dll
+/home/marimemad/data/iti-dotnet/tasks/matries/obj/Debug/net6.0/matries.pdb
+/home/marimemad/data/iti-dotnet/tasks/matries/obj/Debug/net6.0/matries.genruntimeconfig.cache
+/home/marimemad/data/iti-dotnet/tasks/matries/obj/Debug/net6.0/ref/matries.dll

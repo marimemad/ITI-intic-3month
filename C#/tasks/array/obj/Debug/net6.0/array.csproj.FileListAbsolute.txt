@@ -1,0 +1,15 @@
+/home/marimemad/data/iti-dotnet/tasks/array/obj/Debug/net6.0/array.csproj.AssemblyReference.cache
+/home/marimemad/data/iti-dotnet/tasks/array/obj/Debug/net6.0/array.GeneratedMSBuildEditorConfig.editorconfig
+/home/marimemad/data/iti-dotnet/tasks/array/obj/Debug/net6.0/array.AssemblyInfoInputs.cache
+/home/marimemad/data/iti-dotnet/tasks/array/obj/Debug/net6.0/array.AssemblyInfo.cs
+/home/marimemad/data/iti-dotnet/tasks/array/obj/Debug/net6.0/array.csproj.CoreCompileInputs.cache
+/home/marimemad/data/iti-dotnet/tasks/array/bin/Debug/net6.0/array
+/home/marimemad/data/iti-dotnet/tasks/array/bin/Debug/net6.0/array.deps.json
+/home/marimemad/data/iti-dotnet/tasks/array/bin/Debug/net6.0/array.runtimeconfig.json
+/home/marimemad/data/iti-dotnet/tasks/array/bin/Debug/net6.0/array.dll
+/home/marimemad/data/iti-dotnet/tasks/array/bin/Debug/net6.0/array.pdb
+/home/marimemad/data/iti-dotnet/tasks/array/obj/Debug/net6.0/array.dll
+/home/marimemad/data/iti-dotnet/tasks/array/obj/Debug/net6.0/refint/array.dll
+/home/marimemad/data/iti-dotnet/tasks/array/obj/Debug/net6.0/array.pdb
+/home/marimemad/data/iti-dotnet/tasks/array/obj/Debug/net6.0/array.genruntimeconfig.cache
+/home/marimemad/data/iti-dotnet/tasks/array/obj/Debug/net6.0/ref/array.dll

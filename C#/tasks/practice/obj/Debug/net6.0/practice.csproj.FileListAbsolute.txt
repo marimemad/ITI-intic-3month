@@ -1,0 +1,15 @@
+/home/marimemad/data/iti-dotnet/tasks/practice/bin/Debug/net6.0/practice
+/home/marimemad/data/iti-dotnet/tasks/practice/bin/Debug/net6.0/practice.deps.json
+/home/marimemad/data/iti-dotnet/tasks/practice/bin/Debug/net6.0/practice.runtimeconfig.json
+/home/marimemad/data/iti-dotnet/tasks/practice/bin/Debug/net6.0/practice.dll
+/home/marimemad/data/iti-dotnet/tasks/practice/bin/Debug/net6.0/practice.pdb
+/home/marimemad/data/iti-dotnet/tasks/practice/obj/Debug/net6.0/practice.csproj.AssemblyReference.cache
+/home/marimemad/data/iti-dotnet/tasks/practice/obj/Debug/net6.0/practice.GeneratedMSBuildEditorConfig.editorconfig
+/home/marimemad/data/iti-dotnet/tasks/practice/obj/Debug/net6.0/practice.AssemblyInfoInputs.cache
+/home/marimemad/data/iti-dotnet/tasks/practice/obj/Debug/net6.0/practice.AssemblyInfo.cs
+/home/marimemad/data/iti-dotnet/tasks/practice/obj/Debug/net6.0/practice.csproj.CoreCompileInputs.cache
+/home/marimemad/data/iti-dotnet/tasks/practice/obj/Debug/net6.0/practice.dll
+/home/marimemad/data/iti-dotnet/tasks/practice/obj/Debug/net6.0/refint/practice.dll
+/home/marimemad/data/iti-dotnet/tasks/practice/obj/Debug/net6.0/practice.pdb
+/home/marimemad/data/iti-dotnet/tasks/practice/obj/Debug/net6.0/practice.genruntimeconfig.cache
+/home/marimemad/data/iti-dotnet/tasks/practice/obj/Debug/net6.0/ref/practice.dll

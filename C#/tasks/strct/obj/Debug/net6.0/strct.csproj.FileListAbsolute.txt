@@ -1,0 +1,15 @@
+/home/marimemad/data/iti-dotnet/tasks/strct/bin/Debug/net6.0/strct
+/home/marimemad/data/iti-dotnet/tasks/strct/bin/Debug/net6.0/strct.deps.json
+/home/marimemad/data/iti-dotnet/tasks/strct/bin/Debug/net6.0/strct.runtimeconfig.json
+/home/marimemad/data/iti-dotnet/tasks/strct/bin/Debug/net6.0/strct.dll
+/home/marimemad/data/iti-dotnet/tasks/strct/bin/Debug/net6.0/strct.pdb
+/home/marimemad/data/iti-dotnet/tasks/strct/obj/Debug/net6.0/strct.csproj.AssemblyReference.cache
+/home/marimemad/data/iti-dotnet/tasks/strct/obj/Debug/net6.0/strct.GeneratedMSBuildEditorConfig.editorconfig
+/home/marimemad/data/iti-dotnet/tasks/strct/obj/Debug/net6.0/strct.AssemblyInfoInputs.cache
+/home/marimemad/data/iti-dotnet/tasks/strct/obj/Debug/net6.0/strct.AssemblyInfo.cs
+/home/marimemad/data/iti-dotnet/tasks/strct/obj/Debug/net6.0/strct.csproj.CoreCompileInputs.cache
+/home/marimemad/data/iti-dotnet/tasks/strct/obj/Debug/net6.0/strct.dll
+/home/marimemad/data/iti-dotnet/tasks/strct/obj/Debug/net6.0/refint/strct.dll
+/home/marimemad/data/iti-dotnet/tasks/strct/obj/Debug/net6.0/strct.pdb
+/home/marimemad/data/iti-dotnet/tasks/strct/obj/Debug/net6.0/strct.genruntimeconfig.cache
+/home/marimemad/data/iti-dotnet/tasks/strct/obj/Debug/net6.0/ref/strct.dll
